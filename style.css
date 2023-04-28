@@ -1,0 +1,49 @@
+body {
+    background-image: url(./Images/cool-background.png);
+    height: 500px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+#container {
+    border: 4px solid rgb(142, 219, 91);
+    height: 300px;
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+#container2 {
+    height: auto;
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#list {
+    font-size: 22px;
+    text-align: justify;
+}
+
+#btn {
+    margin: 50px;
+    height: 50px;
+    width: 200px;
+    font-size: 22px;
+    background-color: rgb(120, 204, 65);
+    box-shadow: 4px 4px rgb(76, 141, 33);
+    color: rgb(255, 255, 247);
+    border: 2px solid rgb(151, 240, 9);
+    border-radius: 5px;
+}
+
+#text {
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
